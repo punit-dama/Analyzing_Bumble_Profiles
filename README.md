@@ -1,1 +1,1 @@
-###Case Study: Analyzing Bumble Profiles
+Case Study: Analyzing Bumble Profiles
